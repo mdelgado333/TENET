@@ -1,0 +1,1 @@
+gameLauncher.init('myCanvas')

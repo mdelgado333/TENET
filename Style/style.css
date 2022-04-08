@@ -1,0 +1,31 @@
+.caja{
+    height: 1090px;
+    background-image: url("../images/white_letters_logo.jpg");
+    /* display: flex;
+    justify-content: center; */
+    /* margin-bottom: 40px; */
+    background-size: 100%;
+    background-repeat: no-repeat;
+    font-size: 100%;
+    /* width: 50%; */
+    /* margin: auto; */
+    /* margin-top: 120px; */
+    overflow-y: hidden;
+}
+
+.hidden {
+    display: none;
+}
+
+#start{
+
+    position: relative;
+    color: white;
+    left: 580px;
+    top:500px;
+    padding: 10px;
+    background-color: black;
+    border: 2px solid white;
+    border-radius: 0.7em;
+
+}
